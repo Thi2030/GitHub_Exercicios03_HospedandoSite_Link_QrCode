@@ -14,5 +14,6 @@ Exercicio Para Hospedar Site no GitHub + CRiar QrCode
 
     <figure>
         <img src="qrCode.png" alt="Coloque a camera do celular por cima.">
+            <br/>
         <figcaption>Qr Code para ter acesso no CELULAR.</figcaption>
     </figure>
