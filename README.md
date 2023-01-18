@@ -17,3 +17,8 @@ Exercicio Para Hospedar Site no GitHub + CRiar QrCode
             <br/>
         <figcaption>Qr Code para ter acesso no CELULAR.</figcaption>
     </figure>
+
+        OBS.: Ao MUDAR ARQUIVO DE IMAGEM DE QR-CODE, pode não atualizar a mesma, 
+        Isso ocorre porque o arquivo atual possui o mesmo nome do arquivo antigo,
+        Então, para o GitHub entender que há um novo QR Code, 
+        coloque uma TAG de quebra de linha, para o GitHub entender a mudança.
